@@ -1,0 +1,6 @@
+echo who's there
+wait for input suppress actions
+<name> = <object1>
+echo <name> who
+wait for input suppress actions
+echo Ha Ha Ha!!!

@@ -1,0 +1,17 @@
+echo OK, tell me your knock knock joke
+:start
+intercept user reply
+wait for input supress actions
+end intercept
+if knock knock
+goto resume
+else
+echo I thought you were going to tell me a knock knock joke.
+goto start
+:resume
+echo whos there
+wait for input supress actions
+<name> = <object1>
+echo <name> who
+wait for input supress actions
+echo Ha Ha Ha!!!

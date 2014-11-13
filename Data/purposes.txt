@@ -1,0 +1,20 @@
+thing
+a implies b
+a impliesnot b
+see if a implies b
+see if b implies a
+see if a impliesnot b
+say a fact with two objects
+ask a question with one object
+ask a question with two objects
+if a then b
+say yes
+say no
+none
+acknowledge
+greeting
+say not sure
+elaborate
+<OBJECT>
+add <adjective> adjective
+

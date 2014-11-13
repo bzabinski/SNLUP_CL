@@ -1,0 +1,438 @@
+it <object>
+replace first
+thing
+none
+<object> it
+replace last
+thing
+normal
+hello im <object>
+record fact temporary
+a implies b
+normal
+<object> chewed <object>
+record fact temporary
+say a fact with two objects
+normal
+<object> played with <object>
+record fact temporary
+say a fact with two objects
+normal
+not <object> are <object>
+record fact temporary
+a impliesnot b
+normal
+<object> can not <object>
+record fact temporary
+a impliesnot b
+normal
+<object> found <object>
+record fact temporary
+say a fact with two objects
+normal
+am <object>
+find one fact yesno
+see if a implies b
+normal
+can <object>
+find one fact yesno
+see if a implies b
+normal
+how many <object> does <object> have
+find one fact 
+ask a question with two objects
+none
+what <object> was <object>
+find two facts 
+see if a implies b
+none
+what did <object> do with <object>
+find one fact
+ask a question with two objects
+none
+what did <object> find
+find one fact plus found
+ask a question with one object
+none
+what do i <object>
+find one fact plus i
+ask a question with one object
+none
+what can <object> do
+find one fact plus can
+ask a question with one object
+none
+where do <object>
+find one fact
+ask a question with one object
+none
+where did <object> go
+find one fact
+ask a question with one object
+none
+what did <object> do
+find one fact
+ask a question with one object
+none
+when is <object>
+find one facts plus is
+ask a question with one object
+none
+<object> can <object>
+record fact temporary
+a implies b
+normal
+do <object> live in <object>
+find two facts yesno
+see if a implies b
+none
+<object> live in <object>
+record fact temporary
+a implies b
+normal
+am <object> a <object>
+find two facts yesno
+see if a implies b
+none
+how <object> are <object>
+find two facts
+see if a implies b
+normal
+how <object> am <object>
+find two facts
+ask question with two objects
+normal
+who am <object>
+find one fact plus am
+see if a implies b
+normal
+what am <object>
+find one fact
+see if a implies b
+normal
+if <object> then <object>
+record rule temporary
+if a then b
+normal
+does my <object> have <object>
+find two facts yesno
+see if a implies b
+normal
+does <object> have <object>
+find two facts yesno
+see if a implies b
+normal
+do <object> have <object>
+find all facts yesno
+see if a implies b
+normal
+most <object> have <object>
+record fact temporary
+a implies b
+normal
+<object> jumped over <object>
+record fact temporary
+a implies b
+normal
+what was <object>
+find one fact plus was
+see if a implies b
+normal
+what is <object>
+find one fact plus is
+see if a implies b
+normal
+what are <object>
+find one fact plus are
+see if a implies b
+normal
+who are <object>
+find one fact plus are
+see if a implies b
+normal
+why is <object>
+find one fact plus because
+see if a implies b
+normal
+why was <object>
+find one fact plus because
+see if a implies b
+normal
+how are <object>
+find one facts plus am
+ask question with one object
+normal
+why are <object>
+find one fact plus because
+see if a implies b
+normal
+what <object> are <object>
+find two facts
+see if b implies a
+normal
+what <object> am <object>
+find two facts plus am
+see if b implies a
+normal
+what does <object> want
+find one fact plus wants
+see if b implies a
+normal
+how <object> is <object>
+find two facts
+see if b implies a
+normal
+what do i know about <object>
+find one facts
+see if a implies b
+normal
+tell me about <object>
+find one facts
+see if a implies b
+normal
+is this <object>
+find one facts plus is yesno
+see if a implies b
+normal
+is <object> name <object>
+find two facts plus is yesno
+see if a implies b
+normal
+is <object> not <object>
+find two facts plus is yesno
+see if a impliesnot b
+normal
+is <object> a <object>
+find two facts plus is yesno
+see if a implies b
+normal
+is <object> an <object>
+find two facts plus is yesno
+see if a implies b
+normal
+is <object>
+find all facts plus is yesno
+see if a implies b
+normal
+are these <object>
+find one facts yesno
+see if a implies b
+normal
+are <object> not <object>
+find two facts yesno
+see if a impliesnot b
+normal
+are <object> a <object>
+find two facts yesno
+see if a implies b
+normal
+are <object> an <object>
+find two facts yesno
+see if a implies b
+normal
+are <object>
+find one fact yesno
+see if a implies b
+normal
+<object> is here
+record fact temporary
+a implies b
+normal
+<object> wants <object>
+record fact temporary
+a implies b
+normal
+does <object> work here
+find one facts plus works here yesno
+see if a implies b
+normal
+<object> works here
+record fact temporary
+a implies b
+normal
+yes
+yes
+say yes
+normal
+no
+no
+say no
+normal
+knock knock
+run script anoknok
+none
+normal
+call harley
+run script callharley
+none
+normal
+run script <object>
+run script
+none
+normal
+where is <object>
+find one facts plus is
+see if a implies b
+normal
+where are <object>
+find one facts plus are
+see if a implies b
+normal
+who is <object>
+find one facts plus is
+see if a implies b
+normal
+<object> had <object>
+record fact temporary
+none
+normal
+<object> was <object>
+record fact temporary
+a implies b
+normal
+<object> is not <object>
+record fact temporary
+a impliesnot b
+normal
+<object> are not <object>
+record fact temporary
+a impliesnot b
+normal
+<object> are <object>
+record fact temporary
+a implies b
+normal
+<object> has <object>
+record fact temporary
+a implies b
+normal
+<object> went <object>
+record fact temporary
+a implies b
+normal
+what <object> is <object>
+find two facts
+see if b implies a
+normal
+Fact Recorded
+acknowledge
+acknowledge
+normal
+something that is <object>
+reduce
+none
+normal
+<object> is <object>
+record fact temporary
+a implies b
+normal
+where are <object> from
+find one fact plus live
+ask a question with one object
+none
+where am <object> from
+find one fact plus live
+ask a question with one object
+none
+<object> am <object>
+record fact temporary
+a implies b
+normal
+hello
+greeting
+greeting
+normal
+hello there
+greeting
+greeting
+normal
+hi
+greeting
+greeting
+normal
+I am not sure
+say not sure
+say not sure
+normal
+I am not sure about that
+say not sure
+say not sure
+normal
+I cant really say for sure
+say not sure
+say not sure
+normal
+Phrase not understood
+elaborate
+elaborate
+normal
+an <object>
+reduce
+none
+normal
+a <object>
+reduce
+none
+normal
+the <object>
+reduce
+none
+normal
+good <object>
+record adjective good
+add good adjective
+normal
+little <object>
+record adjective little
+add little adjective
+normal
+quick <object>
+record adjective quick
+add quick adjective
+normal
+lazy <object>
+record adjective lazy
+add lazy adjective
+normal
+green <object>
+record adjective green
+add green adjective
+normal
+brown <object>
+record adjective brown
+add brown adjective
+normal
+yellow <object>
+record adjective yellow
+add yellow adjective
+normal
+white <object>
+record adjective white
+add white adjective
+normal
+black <object>
+record adjective black
+add black adjective
+normal
+red <object>
+record adjective red
+add red adjective
+normal
+blue <object>
+record adjective blue
+add blue adjective
+normal
+is <object> here
+find one facts plus is here yesno
+see if a implies b
+normal
+I dont know
+acknowledge
+<OBJECT>
+normal
+<OBJECT>
+undefined
+none
+NORMAL
+END OF FILE
+

@@ -1,0 +1,5 @@
+Recursion Iteration: 1
+Action: find one fact plus i 
+Object 1:do 
+Object 2: 
+Sentence pattern: what do i < do > 

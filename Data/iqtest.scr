@@ -1,0 +1,34 @@
+rem capture output
+echo what color is the sky
+what color is the sky
+echo what color is mud
+what color is mud
+echo is blue a color
+is blue a color
+echo is a gto a truck
+is a gto a truck
+echo is a gto an automobile
+is a gto an automobile
+echo is a truck a truck
+is a truck a truck
+echo are cars fast
+are cars fast
+echo does an automobile have 4 wheels
+does an automobile have 4 wheels
+echo are you a computer program
+are you a computer program
+echo what is your name
+what is your name
+echo is the sky blue
+is the sky blue
+echo what color are apples
+what color are apples
+echo where does john live
+where does john live
+echo what color is a jeep
+what color is a jeep
+echo can a jeep haul things
+can a jeep haul things
+echo does a jeep have 4 wheels
+does a jeep have 4 wheels
+rem capture off

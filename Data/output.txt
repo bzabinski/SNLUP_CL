@@ -1,0 +1,83 @@
+hello there 
+hello there 
+what color is the sky 
+the sky is blue 
+what color is mud 
+mud is brown 
+is blue a color 
+Yes, blue is a color 
+is a gto a truck 
+what color is the sky 
+the sky is blue 
+what color is mud 
+mud is brown 
+is blue a color 
+Yes, blue is a color 
+is a gto a truck 
+No, a gto is not a truck 
+is a gto an automobile 
+Yes, a gto is an automobile 
+is a truck a truck 
+Yes 
+are cars fast 
+Yes, cars are fast 
+does an automobile have 4 wheels 
+Yes, an automobile has 4 wheels 
+are you a computer program 
+Yes, i am a computer program 
+what is your name 
+my name is rufus 
+is the sky blue 
+Yes, the sky is blue 
+what color are apples 
+an apple can be red or yellow or green 
+an apple is a color 
+where does john live 
+john lives in paw paw michigan 
+what color is a jeep 
+what color is the sky 
+the sky is blue 
+what color is mud 
+mud is brown 
+is blue a color 
+Yes, blue is a color 
+is a gto a truck 
+what color is the sky 
+the sky is blue 
+what color is mud 
+mud is brown 
+is blue a color 
+Yes, blue is a color 
+is a gto a truck 
+No, a gto is not a truck 
+is a gto an automobile 
+Yes, a gto is an automobile 
+is a truck a truck 
+Yes 
+are cars fast 
+Yes, cars are fast 
+does an automobile have 4 wheels 
+Yes, an automobile has 4 wheels 
+are you a computer program 
+Yes, i am a computer program 
+what is your name 
+my name is rufus 
+is the sky blue 
+Yes, the sky is blue 
+what color are apples 
+an apple can be red or yellow or green 
+an apple is a color 
+where does john live 
+john lives in paw paw michigan 
+what color is a jeep 
+I dont know, what color is a jeep? 
+can a jeep haul things 
+Yes, a jeep can haul things 
+does a jeep have 4 wheels 
+Yes, a jeep has 4 wheels 
+Phrase not understood 
+Phrase not understood 
+Phrase not understood 
+hello there 
+i am a computer program 
+i am gray 

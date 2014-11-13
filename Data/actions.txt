@@ -1,0 +1,26 @@
+yes
+no
+replace last
+record fact temporary
+find one fact
+find one fact plus <words>
+find one fact yesno
+find one facts plus <words> yesno
+find two facts
+find two facts plus <words>
+find two facts yesno 
+find two facts plus <words> yesno
+find all facts
+find all facts yesno
+find all facts plus <words>
+find all facts plus <words> yesno
+record rule temporary
+run script
+run script <scriptname>
+acknowledge
+reduce
+greeting
+say not sure
+elaborate
+record adjective <adjective>
+undefined
